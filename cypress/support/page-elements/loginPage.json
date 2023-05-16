@@ -1,0 +1,7 @@
+{
+    "email":"#inputEmail",
+    "password":"#inputPassword",
+    "loginBtn":"#regular-login > div.form-bottom > button",
+    "captchaField":"input[name='captcha']",
+    "captchaLogin":".login-btn"
+}

@@ -1,0 +1,11 @@
+{
+    "valid": {
+        "email": "qa-assignment",
+        "password": "qa-Bynder2023!"
+    },
+    "invalid": {
+        "email": "test",
+        "password": "test"
+    }
+
+}
